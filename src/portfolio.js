@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 with experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://www.canva.com/design/DAGItyL4ArA/QSae6qKrZ5hQiLPq8lAHNg/view?utm_content=DAGItyL4ArA&utm_campaign=designshare&utm_medium=link&utm_source=editor", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -215,25 +215,25 @@ const bigProjects = {
   subtitle: "See the rest of my work on my Github!",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/Sw imp.jpeg"),
       projectName: "Full-Stack-Chirper",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Star Wars themed social media app",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://full-stack-chirper.onrender.com"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/bookmin.webp"),
       projectName: "Full-Stack-Blog",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Blog Application to read and share blog posts",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://full-stack-blog-8d2e.onrender.com"
         }
       ]
     }
