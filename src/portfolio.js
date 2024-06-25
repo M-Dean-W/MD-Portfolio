@@ -26,7 +26,8 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 with experience in building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://www.canva.com/design/DAGItyL4ArA/QSae6qKrZ5hQiLPq8lAHNg/view?utm_content=DAGItyL4ArA&utm_campaign=designshare&utm_medium=link&utm_source=editor", // Set to empty to hide the button
+    "", // Set to empty to hide the button
+    // https://www.canva.com/design/DAGItyL4ArA/QSae6qKrZ5hQiLPq8lAHNg/view?utm_content=DAGItyL4ArA&utm_campaign=designshare&utm_medium=link&utm_source=editor
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +36,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/M-Dean-W",
   linkedin: "https://www.linkedin.com/in/michael-dean-williamson/",
-  gmail: "mdeanwill@gmail.com",
+  gmail: "",
   gitlab: "",
   facebook: "",
   medium: "",
