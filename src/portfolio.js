@@ -57,7 +57,7 @@ const skillsSection = {
     ),
     emoji("⚡ Building Full Stack web applications with React and Typescript on the client side, as well as building Node, Typescript, MySQL, and authorization on the server side."),
     emoji(
-      "⚡ Integration of APIs following RESTful principles"
+      "⚡ Integrating of APIs following RESTful principles"
     )
   ],
 
