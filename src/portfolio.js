@@ -53,11 +53,11 @@ const skillsSection = {
   subTitle: "",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Developing highly interactive Front end / User Interfaces for web applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Building Full Stack web applications with React and Typescript on the client side, as well as building Node, Typescript, MySQL, and authorization on the server side."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of APIs following RESTful principles"
     )
   ],
 
